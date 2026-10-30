@@ -1,0 +1,149 @@
+﻿class,subject,question_type,source_question,generated_question,quality_status
+class9,science,MCQ,(a) Amoeba and Euglena arc unicellular organisms. www.vedantu.com 30,"QUESTION:
+Which of the following statements is true about amoebas?
+
+A) They have multiple nuclei and chloroplasts.
+B) They are photosynthetic and live in water.
+C) They reproduce through binary fission but lack cellular structure.
+D) They move using pseudopodia and feed on organic matter.
+
+ANSWER:
+D) They move using pseudopodia and feed on organic matter.",PASS_FORMAT
+class9,social_science,MCQ,"Read the information given below and select the correct option. Most of men and women in the eighteenth century could not read or write. So, images and symbols were frequently used instead of printed words to communicate important ideas. Which of the following was a symbol of royal power?","QUESTION:
+Which of the following was a symbol of royal power during the eighteenth century?
+
+A) The Bible
+B) The Crown Jewels
+C) The Royal Coat of Arms
+D) The Flag of Great Britain
+
+ANSWER:
+C) The Royal Coat of Arms",PASS_FORMAT
+class9,social_science,MCQ,The river Narmada has its source at:,"QUESTION:
+What is the primary source of water for the river Narmada?
+
+A) Himalayas
+B) Aravallis
+C) Western Ghats
+D) Eastern Ghats
+
+ANSWER:
+B) Aravallis",PASS_FORMAT
+class9,maths,MCQ,Which of the following numbers cannot be represented as a terminating decimal?,"QUESTION:
+Which of the following numbers cannot be represented as a terminating decimal?
+
+A) 1/3  
+B) 2/5  
+C) 7/8  
+D) 3/2  
+
+ANSWER:
+A) 1/3",PASS_FORMAT
+class9,social_science,MCQ,"On the given map of France, A is marked as a place where troops entered following the King’s Command. Identify it from the following options. 1 www.vedantu.com 6","QUESTION:
+On the given map of France, A is marked as a place where troops entered following the King's Command. Identify it from the following options. 3
+
+A) Paris
+B) Marseille
+C) Strasbourg
+D) Bordeaux
+
+ANSWER:
+D) Bordeaux",PASS_FORMAT
+class10,social_science,MCQ,Changes in power-sharing require a 1/3rd majority in both houses of Parliament. Options,"QUESTION:
+What is required to change the government in India?
+
+A) More than half of members from one house
+B) More than half of members from both houses
+C) More than three-fourths of members from one house
+D) More than three-fourths of members from both houses
+
+ANSWER:
+B) More than half of members from both houses",PASS_FORMAT
+class9,maths,MCQ,The feasible region of a linear programming problem (LPP) is always a,"QUESTION:
+What does the feasible region of a linear programming problem (LPP) represent?
+
+A) Area where all constraints and objective function intersect
+B) Region within which solutions to LPP problems exist
+C) Set of points that satisfy both inequalities or equations simultaneously
+D) Space defined by non-negative coefficients only
+
+ANSWER:
+B) Region within which solutions to LPP problems exist",PASS_FORMAT
+class9,social_science,MCQ,Two places A and B have been marked on the given outline map of the world. Identify then and write their correct names on the lines drawn near them,"QUESTION:
+Which two countries are identified in the following outline map?
+
+A) Japan and Russia
+B) China and India
+C) Brazil and Argentina
+D) United States and Canada
+
+ANSWER:
+D) United States and Canada",PASS_FORMAT
+class9,science,MCQ,"Plasmolysis is the process in which the cell membrane pulls away from the cell wall due to the loss of water from the cell. This happens when the cell is placed in a hypertonic solution, causing water to leave the cell by osmosis. When a plasmolysed cell is placed in water (a hypotonic solution), it absorbs water, and the cell membrane moves back toward the cell wall. This process is called deplasmolysis, and the cell becomes turgid again. OR","QUESTION:
+Which statement best describes the effect of placing a plasmolysed plant cell in a hypotonic solution?
+
+A) The cell will absorb water and become turgid.
+B) The cell will lose water and shrink.
+C) The cell will remain unchanged as no water enters or exits.
+D) The cell will burst due to excessive water absorption.
+
+ANSWER:
+A) The cell will absorb water and become turgid.",PASS_FORMAT
+class9,maths,MCQ,Which of these is a valid LPP objective function to be maximized?,"QUESTION:
+Which of these is a valid LPP objective function to be maximized?
+
+A) Maximize Z = 2x + 3y  
+   subject to x + y ≤ 10  
+   and x, y ≥ 0  
+
+B) Minimize Z = -5x + 7y  
+   subject to 2x + y ≥ 8  
+   and x, y ≥ 0  
+
+C) Maximize Z = -4x + 6y  
+   subject to x + y ≤ 15  
+   and x, y ≥ 0  
+
+D) Minimize Z = 3x^2 + 2y^2  
+   subject to x + y ≤ 5  
+   and",REVIEW
+class9,social_science,MCQ,Which of the following is known as the twin of the Narmada?,"QUESTION:
+Which of the following is known as the twin of the Narmada?
+
+A) Godavari
+B) Mahanadi
+C) Kaveri
+D) Tungabhadra
+
+ANSWER:
+D) Tungabhadra",PASS_FORMAT
+class9,science,MCQ,Three students used three different containers,"QUESTION:
+Three students used three different containers to measure water in liters. The first student filled her container to the brim and measured 50 liters. The second student poured half of what she had into a larger container but still managed to fill another smaller container with the remaining amount, which was also 25 liters. How much water did the third student use if her measurement is twice that of the second student?
+
+A) 10 liters
+B) 25 liters
+C) 50 liters
+D) 75 liters
+
+ANSWER:
+D) 75 liters",PASS_FORMAT
+class9,science,MCQ,Rutherford’s a-particle scattering experiment showed that: (i) Electrons have a negative charge. (ii) The mass and positive charge of the atom is concentrated in the nucleus. (iii) Neutron exists outside the nucleus. (iv) Most of the space in the atom is empty. Which of the above statements are correct?,"QUESTION:
+Which statement correctly describes the findings of Rutherford's alpha particle scattering experiment?
+
+A) Electrons have a negative charge.
+B) The mass and positive charge of the atom are concentrated in the nucleus.
+C) Neutrons exist outside the nucleus.
+D) Most of the space in the atom is empty.
+
+ANSWER:
+B) The mass and positive charge of the atom are concentrated in the nucleus.",PASS_FORMAT
+class10,maths,MCQ,Which of the following gives the middle most observation of the data?,"QUESTION:
+Which of the following gives the middle most observation of the data?
+
+A) Median  
+B) Mean  
+C) Mode  
+D) Range  
+
+ANSWER:
+A) Median",PASS_FORMAT
